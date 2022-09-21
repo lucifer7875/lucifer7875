@@ -4,13 +4,16 @@ Hi there 👋
 
 Here are some ideas to get you started:
 
- 👋 Hi, I’m @lucifer7875
- 🔭 I’m currently find a job .
- 🌱 I’m currently learning ...
- 👀KNOWN TECHNOLOGY
-        Web Technology: HTML,CSS
-        known language:php,JavaScript, jQuery , ReactJs , Node.Js,express.js
-        Backend:MySQl,MongoDB
+ <li>👋 Hi, I’m @lucifer7875</li>
+ <li>🔭 I’m currently find a job .</li>
+ <li>🌱 I’m currently learning ...</li>
+ <li>👀KNOWN TECHNOLOGY</li>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Technology: HTML,CSS <br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; known language:php,JavaScript, jQuery , ReactJs , Node.Js,express.js<br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend:MySQl,MongoDB<br/>
  
- 💬 Ask me about ...
- 📫 How to reach me: ...
+ <li>💬 Ask me about ...</li>
+ <li>📫 How to reach me: ...</li>
+ 
+ 
+ 
