@@ -2,7 +2,7 @@ Hi there 👋
 
 **lucifer7875/lucifer7875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
  <li>👋 Hi, I’m @lucifer7875</li>
  <li>🔭 I’m currently find a job .</li>
