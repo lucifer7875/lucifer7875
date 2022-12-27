@@ -7,9 +7,9 @@ Hi there 👋
  <li>👋 Hi, I’m @lucifer7875</li>
 
  <li>👀KNOWN TECHNOLOGY</li>
-  <p style="margin-left: 10%;">Web Technology: HTML,CSS  </p><br/>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; known language:php,JavaScript, jQuery , ReactJs , Node.Js,express.js<br/>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend:MySQl,MongoDB<br/>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p style="margin-left: 10%;">Web Technology: HTML,CSS  </p><br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p>known language:php,JavaScript, jQuery , ReactJs , Node.Js,express.js</p><br/>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p>Backend:MySQl,MongoDB</p><br/>
  
  <li>💬 Ask me about ...</li>
  <li>📫 How to reach me: ...</li>
