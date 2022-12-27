@@ -5,7 +5,6 @@ Hi there 👋
 
 
  <li>👋 Hi, I’m @lucifer7875</li>
- <li>🔭 I’m currently find a job .</li>
 
  <li>👀KNOWN TECHNOLOGY</li>
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web Technology: HTML,CSS <br/>
